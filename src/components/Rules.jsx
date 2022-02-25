@@ -63,10 +63,6 @@ const RulesBox = styled.div`
 `;
 
 const Rules = ({ isRules, setIsRules }) => {
-  useEffect(() => {
-    console.log("isRules: " + isRules);
-  }, [isRules]);
-
   return (
     <RulesContainer active={isRules}>
       <RulesBox>

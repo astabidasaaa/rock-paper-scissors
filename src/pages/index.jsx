@@ -13,7 +13,6 @@ const IndexPage = () => {
 
   const handlePlayerClick = (e) => {
     setPlayer(e.target.dataset.id);
-    console.log("clicked: " + e.target.dataset.id);
   };
 
   return (
