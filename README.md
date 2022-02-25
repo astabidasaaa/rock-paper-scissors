@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Rock Paper Scissors repository](https://github.com/astabidasaaa/rock-paper-scissors)
+- Live Site URL: [Rock Paper Scissors](https://sngkr-rock-paper-scissors.netlify.app/)
 
 ## My process
 
